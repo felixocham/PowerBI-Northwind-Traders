@@ -3,9 +3,9 @@
 Postgresql: [Northwind database for Postgres](https://github.com/pthom/northwind_psql.git)
 
 Worthy Tutorials: [Next Level Power BI Reports](https://www.youtube.com/@nextlevelpowerbireports)
-               : [excelisfun](https://www.youtube.com/@excelisfun)
-               : [Your Own KPI](https://www.youtube.com/@yourownkpi)
-               : [Get started with Microsoft data analytics](https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/)
+               , [excelisfun](https://www.youtube.com/@excelisfun)
+               , [Your Own KPI](https://www.youtube.com/@yourownkpi)
+               , and [Get started with Microsoft data analytics](https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/)
 ## Introduction
 This Power BI project attempts to visualise all the real-world transactions analysed from a business (Sales, Cost, Profits, Orders, etc).
 ## Analysis Steps
