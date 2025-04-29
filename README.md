@@ -18,10 +18,10 @@ This Power BI project attempts to visualise all the real-world transactions anal
 7. Designing icons and page Backgrounds in PowerPoint.
 8. Creating visuals.
 #### Outcome:
-![Dashboard.](Dashboard.png)
-![Products.](Products.png)
-![Regions.](Regions.png)
-![Period.](Period.png)
-![Orders.](Orders.png)
+![Dashboard.](Screenshots/Dashboard.png)
+![Products.](Screenshots/Products.png)
+![Regions.](Screenshots/Regions.png)
+![Period.](Screenshots/Period.png)
+![Orders.](Screenshots/Orders.png)
 ### Why I Picked This Dataset
 I am curious about internal business financial trends. It was fun analysing business-specific data and exploring options for its visualisation in Power BI.
