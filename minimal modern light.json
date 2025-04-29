@@ -1,0 +1,41 @@
+{
+  "name": "CustomTheme",
+  "dataColors": [
+    "#3F51B5",
+    "#757de8",
+    "#dedeff",
+    "#2196F3",
+    "#003f8f"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#cccccc",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "color": { "solid": { "color": "#cccccc" } },
+            "show": true
+          }
+        ],
+        "fontColor": [
+          {
+            "color": { "solid": { "color": "#333333" } }
+          }
+        ],
+        "textSize": [
+          {
+            "value": 10
+          }
+        ]
+      }
+    }
+  }
+}
